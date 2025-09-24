@@ -2,7 +2,7 @@
 # 👋 Hi, I'm S Sinchana  
 
 🎓 **Recent Computer Science Graduate | Python Full Stack Developer | MERN Enthusiast.**  
-🚀 Passionate about building scalable web applications, solving problems with Python, and exploring Cloud & DevOps tools.  
+🚀 Passionate about building scalable web applications, solving problems with Python, and exploring Cloud & DevOps tools. 
 ## ✨ About Me  
 
 - 🎓 **Recent Computer Science Graduate** from MVJ College of Engineering, Bangalore (CGPA: 7.8)  
